@@ -19,7 +19,7 @@
  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sham-More&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<a target="_blank" align="right">
+<a target="_blank" align="center">
   <img align="right" top="30%" bottom="500"  height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
@@ -31,10 +31,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sham-More&icon=6&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 If you want to help me
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ ) 
-  
+ 
   <br/>
   
   ![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
